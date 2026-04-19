@@ -162,5 +162,5 @@ Graph-based approaches provide a powerful way to analyze collaboration networks 
 
 ## 👨‍💻 Author
 
-* Your Name
-* GitHub: https://github.com/yourusername
+Lục Vỹ Kiệt
+* GitHub: https://github.com/Ino2701
